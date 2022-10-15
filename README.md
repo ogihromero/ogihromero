@@ -1,6 +1,7 @@
-# Olá 👋
+# Hey, welcome👋
 
-## My name is Adriano Romero but my nickname is 'Ogih' for as long as I can remember.
+## My name is Adriano Romero...
+###### ...But my nickname is 'Ogih' for as long as I can remember.
 
 ---
 - 🔭 I’m currently working on finish my undergrad thesis in Information Systems
